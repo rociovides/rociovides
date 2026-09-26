@@ -23,6 +23,12 @@
 
 <img src="./divider.svg" width="100%" />
 
+<p align="center">
+  <img src="./terminal.svg" width="640" />
+</p>
+
+<img src="./divider.svg" width="100%" />
+
 <h3 align="center">Sobre mí</h3>
 
 <p align="center">
@@ -36,11 +42,6 @@
 <img src="./divider.svg" width="100%" />
 
 <h3 align="center">Actividad</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rociovides&show_icons=true&hide_border=true&bg_color=432720&title_color=ECAAB2&icon_color=ECAAB2&text_color=F8E5D7&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rociovides&layout=compact&hide_border=true&bg_color=432720&title_color=ECAAB2&text_color=F8E5D7" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=432720&ring=ECAAB2&fire=ECAAB2&currStreakLabel=F8E5D7&sideLabels=F8E5D7&dates=F8E5D7" />
