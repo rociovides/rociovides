@@ -19,7 +19,7 @@
       <img src="./terminal.svg" width="460" />
     </td>
     <td align="center" width="240">
-      <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,angular,ts,js,html,css,mysql,docker,figma,git,github,vscode&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,spring,c,python,fastapi,angular,ts,js,html,css,mysql,mssql,docker,cloudflare,figma,git,github,vscode&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
@@ -28,24 +28,16 @@
 
 <h3 align="center">Sobre mí</h3>
 
-<table align="center">
-  <tr>
-    <td valign="top" align="right"><b>Estudio</b></td>
-    <td>Ingeniería en Informática</td>
-  </tr>
-  <tr>
-    <td valign="top" align="right"><b>Trabajo en</b></td>
-    <td>Sistemas de gestión completos para el sector público — de la base de datos a la pantalla</td>
-  </tr>
-  <tr>
-    <td valign="top" align="right"><b>Me apasiona</b></td>
-    <td>El frontend: la interfaz que termina usando la gente todos los días</td>
-  </tr>
-  <tr>
-    <td valign="top" align="right"><b>Ahora profundizo en</b></td>
-    <td>Diseño de interfaces, Docker y Java con Spring Boot</td>
-  </tr>
-</table>
+<p align="center">
+  Soy estudiante de <b>Ingeniería en Informática</b>. En mi trabajo actual desarrollé varios sistemas de punta a punta:<br>
+  una mesa de ayuda (ticketera), un sistema de encuestas por código QR, un dashboard de indicadores,<br>
+  y un bot que envía notificaciones automáticas — cada uno con su backend, su frontend, y su propio despliegue.<br><br>
+  Si tengo que elegir una parte del proceso, me quedo con el frontend: ahí es donde más disfruto trabajar,<br>
+  pero por ahora prefiero seguir siendo full stack, porque me deja aprender un poco de todo.<br><br>
+  Ahora mismo estoy profundizando en <b>diseño de interfaces</b>, metiéndome de lleno en el mundo de <b>Docker</b>,<br>
+  y afianzando <b>Java con Spring Boot</b>. A futuro me gustaría orientarme cada vez más hacia el frontend,<br>
+  sin dejar de entender todo lo que pasa por detrás.
+</p>
 
 <img src="./divider.svg" width="100%" />
 
