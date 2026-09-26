@@ -1,0 +1,12 @@
+<svg width="1000" height="24" viewBox="0 0 1000 24" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes popIn {
+      from { opacity: 0; transform: scale(0.3) rotate(45deg); }
+      to   { opacity: 1; transform: scale(1) rotate(45deg); }
+    }
+    .mark { animation: popIn .5s ease-out .1s forwards; opacity: 0; transform-origin: 500px 12px; }
+  </style>
+  <line x1="0" y1="12" x2="470" y2="12" stroke="#ECAAB2" stroke-width="1"/>
+  <rect x="496" y="8" width="8" height="8" fill="#65232B" class="mark"/>
+  <line x1="530" y1="12" x2="1000" y2="12" stroke="#ECAAB2" stroke-width="1"/>
+</svg>
