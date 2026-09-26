@@ -28,20 +28,31 @@
 
 <h3 align="center">Sobre mí</h3>
 
-<p align="center">
-  Soy estudiante de <b>Ingeniería en Informática</b>, y en el día a día armo sistemas de gestión completos<br>
-  para el sector público — desde la base de datos hasta la pantalla que termina usando la gente.<br><br>
-  Si tengo que elegir una parte del proceso, me quedo con el frontend: ahí es donde más disfruto trabajar.<br>
-  Ahora mismo estoy profundizando en <b>diseño de interfaces</b>, metiéndome de lleno en el mundo de <b>Docker</b>,<br>
-  y afianzando <b>Java con Spring Boot</b>.
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" align="right"><b>Estudio</b></td>
+    <td>Ingeniería en Informática</td>
+  </tr>
+  <tr>
+    <td valign="top" align="right"><b>Trabajo en</b></td>
+    <td>Sistemas de gestión completos para el sector público — de la base de datos a la pantalla</td>
+  </tr>
+  <tr>
+    <td valign="top" align="right"><b>Me apasiona</b></td>
+    <td>El frontend: la interfaz que termina usando la gente todos los días</td>
+  </tr>
+  <tr>
+    <td valign="top" align="right"><b>Ahora profundizo en</b></td>
+    <td>Diseño de interfaces, Docker y Java con Spring Boot</td>
+  </tr>
+</table>
 
 <img src="./divider.svg" width="100%" />
 
 <h3 align="center">Actividad</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=122439&ring=9FCBE8&fire=9FCBE8&currStreakLabel=F2F7FB&sideLabels=F2F7FB&dates=F2F7FB" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=122439&ring=9FCBE8&fire=9FCBE8&currStreakNum=F2F7FB&sideNums=F2F7FB&currStreakLabel=F2F7FB&sideLabels=F2F7FB&dates=9FCBE8" />
 </p>
 
 <img src="./divider.svg" width="100%" />
