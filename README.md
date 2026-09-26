@@ -1,15 +1,11 @@
 <img src="./banner.svg" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=1100&color=F8E5D7&background=65232B&center=true&vCenter=true&width=560&lines=Full+Stack%2C+con+el+coraz%C3%B3n+en+el+frontend;Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica;Hoy%3A+dise%C3%B1o+de+interfaces%2C+Docker+y+Spring+Boot" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/rocío-vides" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-65232B?style=for-the-badge&logo=linkedin&logoColor=F8E5D7" />
+    <img src="https://img.shields.io/badge/LinkedIn-2C5678?style=for-the-badge&logo=linkedin&logoColor=F2F7FB" />
   </a>
   <a href="mailto:rociovides.ul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-432720?style=for-the-badge&logo=gmail&logoColor=F8E5D7" />
+    <img src="https://img.shields.io/badge/Gmail-122439?style=for-the-badge&logo=gmail&logoColor=F2F7FB" />
   </a>
 </p>
 
@@ -17,15 +13,16 @@
 
 <h3 align="center">Stack técnico</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,angular,ts,js,html,css,mysql,docker,figma,git,github,vscode&theme=dark" />
-</p>
-
-<img src="./divider.svg" width="100%" />
-
-<p align="center">
-  <img src="./terminal.svg" width="640" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="460">
+      <img src="./terminal.svg" width="460" />
+    </td>
+    <td align="center" width="240">
+      <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,angular,ts,js,html,css,mysql,docker,figma,git,github,vscode&theme=dark&perline=4" />
+    </td>
+  </tr>
+</table>
 
 <img src="./divider.svg" width="100%" />
 
@@ -44,7 +41,7 @@
 <h3 align="center">Actividad</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=432720&ring=ECAAB2&fire=ECAAB2&currStreakLabel=F8E5D7&sideLabels=F8E5D7&dates=F8E5D7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=122439&ring=9FCBE8&fire=9FCBE8&currStreakLabel=F2F7FB&sideLabels=F2F7FB&dates=F2F7FB" />
 </p>
 
 <img src="./divider.svg" width="100%" />

@@ -6,7 +6,7 @@
     }
     .mark { animation: popIn .5s ease-out .1s forwards; opacity: 0; transform-origin: 500px 12px; }
   </style>
-  <line x1="0" y1="12" x2="470" y2="12" stroke="#ECAAB2" stroke-width="1"/>
-  <rect x="496" y="8" width="8" height="8" fill="#65232B" class="mark"/>
-  <line x1="530" y1="12" x2="1000" y2="12" stroke="#ECAAB2" stroke-width="1"/>
+  <line x1="0" y1="12" x2="470" y2="12" stroke="#9FCBE8" stroke-width="1"/>
+  <rect x="496" y="8" width="8" height="8" fill="#2C5678" class="mark"/>
+  <line x1="530" y1="12" x2="1000" y2="12" stroke="#9FCBE8" stroke-width="1"/>
 </svg>
