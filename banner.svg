@@ -1,0 +1,23 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C9707C"/>
+      <stop offset="55%" stop-color="#8E2F3C"/>
+      <stop offset="100%" stop-color="#3B0F18"/>
+    </linearGradient>
+  </defs>
+  <style>
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(10px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    text { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .title { animation: fadeUp .7s ease-out .2s both; transform-origin: center; }
+    .tag   { animation: fadeUp .7s ease-out .55s both; transform-origin: center; }
+  </style>
+
+  <rect width="1000" height="260" fill="url(#skyGrad)"/>
+
+  <text x="500" y="128" text-anchor="middle" class="title" font-size="38" font-weight="600" fill="#FBEFEC" letter-spacing="0.5">Welcome to Rocío's GitHub</text>
+  <text x="500" y="158" text-anchor="middle" class="tag" font-size="17" fill="#E8B4B8" letter-spacing="3">&lt;/&gt;</text>
+</svg>
