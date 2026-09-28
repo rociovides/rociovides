@@ -24,6 +24,15 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PrimeNG-3B0F18?style=for-the-badge&logo=primeng&logoColor=FBEFEC" />
+  <img src="https://img.shields.io/badge/ECharts-3B0F18?style=for-the-badge&logo=apacheecharts&logoColor=FBEFEC" />
+  <img src="https://img.shields.io/badge/Leaflet-3B0F18?style=for-the-badge&logo=leaflet&logoColor=FBEFEC" />
+  <img src="https://img.shields.io/badge/Streamlit-3B0F18?style=for-the-badge&logo=streamlit&logoColor=FBEFEC" />
+  <img src="https://img.shields.io/badge/Flyway-3B0F18?style=for-the-badge&logo=flyway&logoColor=FBEFEC" />
+  <img src="https://img.shields.io/badge/n8n-3B0F18?style=for-the-badge&logo=n8n&logoColor=FBEFEC" />
+</p>
+
 <img src="./divider.svg" width="100%" />
 
 <h3 align="center">Sobre mí</h3>
