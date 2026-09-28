@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rocío-vides" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-2C5678?style=for-the-badge&logo=linkedin&logoColor=F2F7FB" />
+    <img src="https://img.shields.io/badge/LinkedIn-8E2F3C?style=for-the-badge&logo=linkedin&logoColor=FBEFEC" />
   </a>
   <a href="mailto:rociovides.ul@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-122439?style=for-the-badge&logo=gmail&logoColor=F2F7FB" />
+    <img src="https://img.shields.io/badge/Gmail-3B0F18?style=for-the-badge&logo=gmail&logoColor=FBEFEC" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@
 <h3 align="center">Actividad</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=122439&ring=9FCBE8&fire=9FCBE8&currStreakNum=F2F7FB&sideNums=F2F7FB&currStreakLabel=F2F7FB&sideLabels=F2F7FB&dates=9FCBE8" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rociovides&hide_border=true&background=3B0F18&ring=E8B4B8&fire=E8B4B8&currStreakNum=FBEFEC&sideNums=FBEFEC&currStreakLabel=FBEFEC&sideLabels=FBEFEC&dates=E8B4B8" />
 </p>
 
 <img src="./divider.svg" width="100%" />
