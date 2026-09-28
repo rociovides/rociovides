@@ -22,16 +22,17 @@
       <img src="https://skillicons.dev/icons?i=java,spring,maven,c,python,django,fastapi,pandas,angular,react,ts,js,html,css,bootstrap,tailwind,materialui,vite,express,nginx,mysql,postgres,docker,cloudflare,figma,git,github,vscode&theme=dark&perline=4" />
     </td>
   </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://img.shields.io/badge/PrimeNG-3B0F18?style=for-the-badge&logo=primeng&logoColor=FBEFEC" />
+      <img src="https://img.shields.io/badge/ECharts-3B0F18?style=for-the-badge&logo=apacheecharts&logoColor=FBEFEC" />
+      <img src="https://img.shields.io/badge/Leaflet-3B0F18?style=for-the-badge&logo=leaflet&logoColor=FBEFEC" />
+      <img src="https://img.shields.io/badge/Streamlit-3B0F18?style=for-the-badge&logo=streamlit&logoColor=FBEFEC" />
+      <img src="https://img.shields.io/badge/Flyway-3B0F18?style=for-the-badge&logo=flyway&logoColor=FBEFEC" />
+      <img src="https://img.shields.io/badge/n8n-3B0F18?style=for-the-badge&logo=n8n&logoColor=FBEFEC" />
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PrimeNG-3B0F18?style=for-the-badge&logo=primeng&logoColor=FBEFEC" />
-  <img src="https://img.shields.io/badge/ECharts-3B0F18?style=for-the-badge&logo=apacheecharts&logoColor=FBEFEC" />
-  <img src="https://img.shields.io/badge/Leaflet-3B0F18?style=for-the-badge&logo=leaflet&logoColor=FBEFEC" />
-  <img src="https://img.shields.io/badge/Streamlit-3B0F18?style=for-the-badge&logo=streamlit&logoColor=FBEFEC" />
-  <img src="https://img.shields.io/badge/Flyway-3B0F18?style=for-the-badge&logo=flyway&logoColor=FBEFEC" />
-  <img src="https://img.shields.io/badge/n8n-3B0F18?style=for-the-badge&logo=n8n&logoColor=FBEFEC" />
-</p>
 
 <img src="./divider.svg" width="100%" />
 
