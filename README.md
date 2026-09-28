@@ -19,7 +19,7 @@
       <img src="./terminal.svg" width="460" />
     </td>
     <td align="center" width="240">
-      <img src="https://skillicons.dev/icons?i=java,spring,c,python,fastapi,angular,ts,js,html,css,mysql,mssql,docker,cloudflare,figma,git,github,vscode&theme=dark&perline=4" />
+      <img src="https://skillicons.dev/icons?i=java,spring,maven,c,python,django,fastapi,pandas,angular,react,ts,js,html,css,bootstrap,tailwind,materialui,vite,express,nginx,mysql,postgres,docker,cloudflare,figma,git,github,vscode&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
